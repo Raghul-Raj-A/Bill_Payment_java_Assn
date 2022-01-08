@@ -1,3 +1,4 @@
 # Prototype
 
-java dummy projects for 5 th  semester Java elective assignment
+Assignment for 5 th semester Java Course
+
