@@ -74,6 +74,7 @@ class Prototype implements Runnable
     //Intro operations
     gre = new JLabel("Welcome to KAART");
     gre.setBounds(245,200,650,50);
+    gre.setForeground(Color.red);
     gre.setFont(new Font("Lucida Calligraphy", Font.PLAIN, 34));
     ititle = new JLabel("Billing & Payment Application");
     ititle.setBounds(250,20,370,30);
